@@ -1,0 +1,23 @@
+# Site settings
+title: "Samaneh Hosseinzadeh"
+description: "My personal academic website and online CV"
+url: "https://samanehossz.github.io"  
+baseurl: ""   
+
+# Author info
+author:
+  name: "Samaneh Hosseinzadeh"
+  email: "samaneh.hossz@gmail.com"
+  github: "samanehossz"
+  linkedin: "https://www.linkedin.com/in/samaneh-hosseinzadeh/"
+
+# Build settings
+theme: minima   
+markdown: kramdown
+
+# Navigation links 
+header_pages:
+  - index.md
+  - cv.md
+  - research.md
+  - contact.md
