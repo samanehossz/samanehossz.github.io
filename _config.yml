@@ -1,9 +1,3 @@
-# Site settings
-title: "Samaneh Hosseinzadeh"
-description: "My personal academic website and online CV"
-url: "https://samanehossz.github.io"  
-baseurl: ""   
-
 # Author info
 author:
   name: "Samaneh Hosseinzadeh"
